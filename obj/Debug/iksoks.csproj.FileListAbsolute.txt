@@ -1,0 +1,11 @@
+C:\Users\megag\source\repos\iksoks\obj\Debug\iksoks.csproj.AssemblyReference.cache
+C:\Users\megag\source\repos\iksoks\obj\Debug\iksoks.csproj.SuggestedBindingRedirects.cache
+C:\Users\megag\source\repos\iksoks\obj\Debug\iksoks.Form1.resources
+C:\Users\megag\source\repos\iksoks\obj\Debug\iksoks.Properties.Resources.resources
+C:\Users\megag\source\repos\iksoks\obj\Debug\iksoks.csproj.GenerateResource.cache
+C:\Users\megag\source\repos\iksoks\obj\Debug\iksoks.csproj.CoreCompileInputs.cache
+C:\Users\megag\source\repos\iksoks\bin\Debug\Iks oks.exe.config
+C:\Users\megag\source\repos\iksoks\bin\Debug\Iks oks.exe
+C:\Users\megag\source\repos\iksoks\bin\Debug\Iks oks.pdb
+C:\Users\megag\source\repos\iksoks\obj\Debug\Iks oks.exe
+C:\Users\megag\source\repos\iksoks\obj\Debug\Iks oks.pdb
